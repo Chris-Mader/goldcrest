@@ -4,7 +4,7 @@ ruby '2.3.1', :engine => 'jruby', :engine_version => '9.1.8.0'
 
 gem 'cowsay'
 
-gem 'shopify_app', '1.6.1'
+gem 'shopify_app', '6.1.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.2.4'
