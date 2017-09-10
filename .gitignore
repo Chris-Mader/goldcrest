@@ -16,4 +16,3 @@
 /log/*.log
 /tmp
 /bin
-db/schema.rb
